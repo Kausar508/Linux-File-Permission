@@ -22,7 +22,6 @@ By the end of the project, the system’s files and directories were more secure
 ## ⚙️ Commands Used
 
 ### Check File and Directory Details
-```bash
 ls -la
 
 **Change File Permissions**
@@ -33,6 +32,7 @@ chmod u-w,g-w,g+r .project_x.txt
 
 **Change Directory Permissions**
 chmod g-x,g-r,o-r,o-x projects
+
 
 **🧠 Key Skills Demonstrated**
 Linux command-line operations
@@ -45,5 +45,4 @@ Understanding of Linux permission strings (e.g., -rw-rw-r--)
 This project demonstrates how to effectively manage Linux file and directory permissions to maintain data confidentiality and integrity.
 By applying the ls and chmod commands, users can control who has access to specific files, reducing the risk of unauthorized modification or exposure.
 Proper permission management is an essential cybersecurity practice for protecting sensitive organizational data.
-
 
